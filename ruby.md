@@ -1,0 +1,1 @@
+<span style="color:blue">Github markdown does not support blue text! But VSCode does!</span>
